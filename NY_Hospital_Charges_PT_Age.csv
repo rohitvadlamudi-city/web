@@ -1,0 +1,51 @@
+ageGroup,payment1,charges
+0 to 17,Blue Cross/Blue Shield,9394.22
+0 to 17,Department of Corrections,14829.0
+0 to 17,Federal/State/Local/VA,6935.47
+0 to 17,"Managed Care, Unspecified",7151.33
+0 to 17,Medicaid,9850.0
+0 to 17,Medicare,11751.185000000001
+0 to 17,Miscellaneous/Other,25847.24
+0 to 17,Private Health Insurance,10399.42
+0 to 17,Self-Pay,6043.52
+0 to 17,Unknown,10391.075
+18 to 29,Blue Cross/Blue Shield,17523.01
+18 to 29,Department of Corrections,20784.36
+18 to 29,Federal/State/Local/VA,13073.3
+18 to 29,"Managed Care, Unspecified",17416.615
+18 to 29,Medicaid,17705.26
+18 to 29,Medicare,22691.24
+18 to 29,Miscellaneous/Other,31575.4
+18 to 29,Private Health Insurance,20599.43
+18 to 29,Self-Pay,15266.36
+18 to 29,Unknown,15060.3
+30 to 49,Blue Cross/Blue Shield,22344.0
+30 to 49,Department of Corrections,22976.705
+30 to 49,Federal/State/Local/VA,19386.55
+30 to 49,"Managed Care, Unspecified",22559.989999999998
+30 to 49,Medicaid,20277.809999999998
+30 to 49,Medicare,25864.25
+30 to 49,Miscellaneous/Other,37086.375
+30 to 49,Private Health Insurance,24608.31
+30 to 49,Self-Pay,17912.0
+30 to 49,Unknown,21729.4
+50 to 69,Blue Cross/Blue Shield,34409.81
+50 to 69,Department of Corrections,25164.63
+50 to 69,Federal/State/Local/VA,28754.92
+50 to 69,"Managed Care, Unspecified",33125.58
+50 to 69,Medicaid,28371.0
+50 to 69,Medicare,34076.0
+50 to 69,Miscellaneous/Other,40340.7
+50 to 69,Private Health Insurance,37612.6
+50 to 69,Self-Pay,23941.77
+50 to 69,Unknown,27172.92
+70 or Older,Blue Cross/Blue Shield,37631.14
+70 or Older,Department of Corrections,30117.015
+70 or Older,Federal/State/Local/VA,24039.72
+70 or Older,"Managed Care, Unspecified",22594.09
+70 or Older,Medicaid,37178.0
+70 or Older,Medicare,35320.91
+70 or Older,Miscellaneous/Other,25583.15
+70 or Older,Private Health Insurance,32585.68
+70 or Older,Self-Pay,25042.55
+70 or Older,Unknown,30590.17

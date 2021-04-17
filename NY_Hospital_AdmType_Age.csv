@@ -1,0 +1,31 @@
+ageGroup,admissionType,count
+0 to 17,Elective,17603
+0 to 17,Emergency,94130
+0 to 17,Newborn,224580
+0 to 17,Not Available,31
+0 to 17,Trauma,497
+0 to 17,Urgent,10794
+18 to 29,Elective,64812
+18 to 29,Emergency,138933
+18 to 29,Newborn,46
+18 to 29,Not Available,80
+18 to 29,Trauma,1152
+18 to 29,Urgent,38622
+30 to 49,Elective,124780
+30 to 49,Emergency,277865
+30 to 49,Newborn,79
+30 to 49,Not Available,106
+30 to 49,Trauma,1493
+30 to 49,Urgent,50608
+50 to 69,Elective,145326
+50 to 69,Emergency,467717
+50 to 69,Newborn,45
+50 to 69,Not Available,111
+50 to 69,Trauma,1741
+50 to 69,Urgent,39590
+70 or Older,Elective,88726
+70 or Older,Emergency,520316
+70 or Older,Newborn,29
+70 or Older,Not Available,107
+70 or Older,Trauma,1746
+70 or Older,Urgent,31764

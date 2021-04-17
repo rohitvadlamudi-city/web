@@ -1,0 +1,124 @@
+ageGroup,MDC,count
+0 to 17,Alcohol/Drug Use and Alcohol/Drug Induced Organic Mental Disorders,214
+0 to 17,Burns,559
+0 to 17,"Blood, Blood Forming Organs and Immunological Disorders",4356
+0 to 17,Circulatory System,2970
+0 to 17,Digestive System,14094
+0 to 17,Eye,573
+0 to 17,Female Reproductive System,575
+0 to 17,Hepatobiliary System and Pancreas,1105
+0 to 17,Kidney and Urinary Tract,3686
+0 to 17,Male Reproductive System,387
+0 to 17,Musculoskeletal System and Conn Tissue,6694
+0 to 17,Nervous System,12298
+0 to 17,Respiratory System,27928
+0 to 17,"Skin, Subcutaneous Tissue and Breast",4594
+0 to 17,"Ear, Nose, Mouth, Throat and Craniofacial Diseases and Disorders",7814
+0 to 17,"Endocrine, Nutritional and Metabolic Diseases and Disorders",5195
+0 to 17,Human Immunodeficiency Virus Infections,13
+0 to 17,"Infectious and Parasitic Diseases, Systemic or Unspecified Sites",5907
+0 to 17,"Lymphatic, Hematopoietic, Other Malignancies, Chemotherapy and Radiotherapy",1984
+0 to 17,Mental Diseases and Disorders,10682
+0 to 17,Multiple Significant Trauma,264
+0 to 17,Newborns and Other Neonates with Conditions Originating in the Perinatal Period,229534
+0 to 17,"Poisonings, Toxic Effects, Other Injuries and Other Complications of Treatment",2265
+0 to 17,Pre-MDC or Ungroupable,8
+0 to 17,"Pregnancy, Childbirth and the Puerperium",2495
+0 to 17,"Rehabilitation, Aftercare, Other Factors Influencing Health Status and Other Health Service Contacts",1441
+18 to 29,Alcohol/Drug Use and Alcohol/Drug Induced Organic Mental Disorders,13790
+18 to 29,Burns,253
+18 to 29,"Blood, Blood Forming Organs and Immunological Disorders",5198
+18 to 29,Circulatory System,4199
+18 to 29,Digestive System,13147
+18 to 29,Eye,323
+18 to 29,Female Reproductive System,1837
+18 to 29,Hepatobiliary System and Pancreas,4821
+18 to 29,Kidney and Urinary Tract,4154
+18 to 29,Male Reproductive System,342
+18 to 29,Musculoskeletal System and Conn Tissue,6950
+18 to 29,Nervous System,8933
+18 to 29,Respiratory System,6269
+18 to 29,"Skin, Subcutaneous Tissue and Breast",4719
+18 to 29,"Ear, Nose, Mouth, Throat and Craniofacial Diseases and Disorders",2977
+18 to 29,"Endocrine, Nutritional and Metabolic Diseases and Disorders",7381
+18 to 29,Human Immunodeficiency Virus Infections,465
+18 to 29,"Infectious and Parasitic Diseases, Systemic or Unspecified Sites",5731
+18 to 29,"Lymphatic, Hematopoietic, Other Malignancies, Chemotherapy and Radiotherapy",1475
+18 to 29,Mental Diseases and Disorders,29736
+18 to 29,Multiple Significant Trauma,893
+18 to 29,"Poisonings, Toxic Effects, Other Injuries and Other Complications of Treatment",3706
+18 to 29,Pre-MDC or Ungroupable,4
+18 to 29,"Pregnancy, Childbirth and the Puerperium",114970
+18 to 29,"Rehabilitation, Aftercare, Other Factors Influencing Health Status and Other Health Service Contacts",1372
+30 to 49,Alcohol/Drug Use and Alcohol/Drug Induced Organic Mental Disorders,34660
+30 to 49,Burns,430
+30 to 49,"Blood, Blood Forming Organs and Immunological Disorders",7201
+30 to 49,Circulatory System,27498
+30 to 49,Digestive System,34930
+30 to 49,Eye,734
+30 to 49,Female Reproductive System,11888
+30 to 49,Hepatobiliary System and Pancreas,16276
+30 to 49,Kidney and Urinary Tract,13192
+30 to 49,Male Reproductive System,813
+30 to 49,Musculoskeletal System and Conn Tissue,24852
+30 to 49,Nervous System,22386
+30 to 49,Respiratory System,18419
+30 to 49,"Skin, Subcutaneous Tissue and Breast",13295
+30 to 49,"Ear, Nose, Mouth, Throat and Craniofacial Diseases and Disorders",4618
+30 to 49,"Endocrine, Nutritional and Metabolic Diseases and Disorders",19454
+30 to 49,Human Immunodeficiency Virus Infections,2396
+30 to 49,"Infectious and Parasitic Diseases, Systemic or Unspecified Sites",16303
+30 to 49,"Lymphatic, Hematopoietic, Other Malignancies, Chemotherapy and Radiotherapy",3164
+30 to 49,Mental Diseases and Disorders,38421
+30 to 49,Multiple Significant Trauma,931
+30 to 49,"Poisonings, Toxic Effects, Other Injuries and Other Complications of Treatment",6573
+30 to 49,Pre-MDC or Ungroupable,2
+30 to 49,"Pregnancy, Childbirth and the Puerperium",132667
+30 to 49,"Rehabilitation, Aftercare, Other Factors Influencing Health Status and Other Health Service Contacts",3828
+50 to 69,Alcohol/Drug Use and Alcohol/Drug Induced Organic Mental Disorders,26073
+50 to 69,Burns,449
+50 to 69,"Blood, Blood Forming Organs and Immunological Disorders",7680
+50 to 69,Circulatory System,113717
+50 to 69,Digestive System,67601
+50 to 69,Eye,1084
+50 to 69,Female Reproductive System,8084
+50 to 69,Hepatobiliary System and Pancreas,27138
+50 to 69,Kidney and Urinary Tract,33284
+50 to 69,Male Reproductive System,5443
+50 to 69,Musculoskeletal System and Conn Tissue,87878
+50 to 69,Nervous System,50649
+50 to 69,Respiratory System,64717
+50 to 69,"Skin, Subcutaneous Tissue and Breast",21343
+50 to 69,"Ear, Nose, Mouth, Throat and Craniofacial Diseases and Disorders",8407
+50 to 69,"Endocrine, Nutritional and Metabolic Diseases and Disorders",24200
+50 to 69,Human Immunodeficiency Virus Infections,3280
+50 to 69,"Infectious and Parasitic Diseases, Systemic or Unspecified Sites",44019
+50 to 69,"Lymphatic, Hematopoietic, Other Malignancies, Chemotherapy and Radiotherapy",9258
+50 to 69,Mental Diseases and Disorders,28411
+50 to 69,Multiple Significant Trauma,1095
+50 to 69,"Poisonings, Toxic Effects, Other Injuries and Other Complications of Treatment",9411
+50 to 69,"Pregnancy, Childbirth and the Puerperium",78
+50 to 69,"Rehabilitation, Aftercare, Other Factors Influencing Health Status and Other Health Service Contacts",11231
+70 or Older,Alcohol/Drug Use and Alcohol/Drug Induced Organic Mental Disorders,1282
+70 or Older,Burns,201
+70 or Older,"Blood, Blood Forming Organs and Immunological Disorders",8714
+70 or Older,Circulatory System,144772
+70 or Older,Digestive System,66147
+70 or Older,Eye,881
+70 or Older,Female Reproductive System,2899
+70 or Older,Hepatobiliary System and Pancreas,15453
+70 or Older,Kidney and Urinary Tract,48414
+70 or Older,Male Reproductive System,3451
+70 or Older,Musculoskeletal System and Conn Tissue,78135
+70 or Older,Nervous System,56940
+70 or Older,Respiratory System,76600
+70 or Older,"Skin, Subcutaneous Tissue and Breast",16576
+70 or Older,"Ear, Nose, Mouth, Throat and Craniofacial Diseases and Disorders",7453
+70 or Older,"Endocrine, Nutritional and Metabolic Diseases and Disorders",19624
+70 or Older,Human Immunodeficiency Virus Infections,282
+70 or Older,"Infectious and Parasitic Diseases, Systemic or Unspecified Sites",62160
+70 or Older,"Lymphatic, Hematopoietic, Other Malignancies, Chemotherapy and Radiotherapy",5967
+70 or Older,Mental Diseases and Disorders,7800
+70 or Older,Multiple Significant Trauma,1379
+70 or Older,"Poisonings, Toxic Effects, Other Injuries and Other Complications of Treatment",4721
+70 or Older,"Rehabilitation, Aftercare, Other Factors Influencing Health Status and Other Health Service Contacts",12837
